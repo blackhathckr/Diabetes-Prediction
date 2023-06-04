@@ -48,5 +48,3 @@ else:
 
 jb.dump(classifier, 'model.h5')
 
-# Load the saved model
-#loaded_model = pickle.load(open('trained_model.sav', 'rb'))
